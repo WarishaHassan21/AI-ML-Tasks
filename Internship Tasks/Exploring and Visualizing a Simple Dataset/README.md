@@ -1,6 +1,6 @@
 # Task 1: Exploratory Data Analysis (EDA)
 
-## 🎯 Objective
+## Objective
 
 Perform basic EDA and visualizations on the **Iris Dataset** to understand relationships between features and species.
 
