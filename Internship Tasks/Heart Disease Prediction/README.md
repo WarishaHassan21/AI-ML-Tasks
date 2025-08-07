@@ -12,7 +12,7 @@ Build a classification model to predict if a patient has heart disease based on 
 - Target: 1 (disease) or 0 (no disease)
 
 
-## ⚙️ Steps Performed
+## Steps Performed
 
 1. **Dataset Loading & Preprocessing**
    - Handled missing values and outliers
